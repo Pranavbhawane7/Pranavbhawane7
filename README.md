@@ -27,8 +27,7 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 
 ## 📌 Career Goals
 Transitioning into **Data Science & Analytics Engineering roles** with a focus on **Fintech and Tech sectors**.
-                                                                                                                                                                                                            <img width="720" height="720" alt="videoframe_5609" src="https://github.com/user-attachments/assets/acead65e-f84e-48a4-9b10-512c411f2a16" />
-
+                                                                                                                                                                                                           
 ---
 
 ## 📫 Let’s Connect
