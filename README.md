@@ -1,3 +1,4 @@
+<img width="1536" height="865" alt="Copilot_20260911_131057" src="https://github.com/user-attachments/assets/182a5582-b4d2-43e8-a052-10c23fea3a0e" />
 👋 Hi, I’m Pranav Bhawane
 I’m an aspiring Data Scientist passionate about turning raw data into actionable insights. Currently working with Python, SQL, Pandas, and ETL workflows, I’m expanding into Machine Learning and Data Engineering to build end‑to‑end solutions.
 
