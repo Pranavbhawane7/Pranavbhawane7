@@ -1,4 +1,4 @@
-<img width="1000" height="866" alt="Copilot_20260911_131835" src="https://github.com/user-attachments/assets/9c285991-8cc1-45e2-a09b-f48bf71de224" />
+<img width="1000" height="500" alt="Copilot_20260911_131835" src="https://github.com/user-attachments/assets/9c285991-8cc1-45e2-a09b-f48bf71de224" />
 
 
 👋 Hi, I’m Pranav Bhawane
