@@ -18,10 +18,9 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 ---
 
 ## 🛠️ Tech Stack & Tools
-**Languages:** Python, SQL  
-**Libraries:** [![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&link=https%3A%2F%2Fgithub.com%2FPranavbhawane7&color=%23000000)](https://github.com/Pranavbhawane7)  
-**Data Tools:** Excel, Google Sheets  
-**Workflow:** ETL, Data Visualization, Feature Engineering
+**Languages and Tools:** ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&bg=%23f3f4f6&link=)
+
+
 
 ---
 
