@@ -40,9 +40,6 @@ Transitioning into **Data Science & Analytics Engineering roles** with a focus o
 [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=LinkedIn&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-bhawane%2F)](https://www.linkedin.com/in/pranav-bhawane/)
 [![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.kaggle.com%2Fpranavbhawane777)](https://www.kaggle.com/pranavbhawane777)
 
-  [![email](https://cdn.simpleicons.org/gmail/EA4335)](mailto:bhawanepranav7@gmail.com)
-</p>
-
 ---
 
 💡 **Fun Fact:** I love experimenting with side projects — from scraping data to building ML models — and I’m always learning something new.
