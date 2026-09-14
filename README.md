@@ -1,4 +1,5 @@
-<img width="1000" height="500" alt="Copilot_20260911_131835" src="https://github.com/user-attachments/assets/9c285991-8cc1-45e2-a09b-f48bf71de224" />
+<img width="1920" height="1080" alt="Black and White Simple Professional Data Analysis Presentation" src="https://github.com/user-attachments/assets/f635c6e3-c19f-4dc6-9aa7-213509895391" />
+
 
 
 # 👋 Hi, I’m **Pranav Bhawane**
