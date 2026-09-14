@@ -22,7 +22,7 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 **Languages and Tools:** -
 
 
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&reverseBackground=true&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&reverseBackground=true&link=) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&reverseBackground=true&link=) ![numpy](https://www.readmecodegen.com/api/social-icon?name=numpy&size=46&reverseBackground=true&link=) ![scikitlearn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=46&reverseBackground=true&link=) ![pytorch](https://www.readmecodegen.com/api/social-icon?name=pytorch&size=46&reverseBackground=true&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&reverseBackground=true&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&reverseBackground=true&link=) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&reverseBackground=true&link=) ![numpy](https://www.readmecodegen.com/api/social-icon?name=numpy&size=46&reverseBackground=true&link=) ![scikitlearn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=46&reverseBackground=true&link=) ![pytorch](https://www.readmecodegen.com/api/social-icon?name=pytorch&size=46&reverseBackground=true&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=) ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96&reverseBackground=true)
 
 
 
@@ -35,7 +35,7 @@ Transitioning into **Data Science & Analytics Engineering roles** with a focus o
 
 ## 📫 Let’s Connect
 ![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96) 
-
+[![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.kaggle.com%2Fpranavbhawane777)](https://www.kaggle.com/pranavbhawane777)
 ---
 
 💡 **Fun Fact:** I love experimenting with side projects — from scraping data to building ML models — and I’m always learning something new.
