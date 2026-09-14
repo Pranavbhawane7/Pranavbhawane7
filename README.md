@@ -19,7 +19,8 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 
 ## 🛠️ Tech Stack & Tools
 **Languages and Tools:** -
-![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=)
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&reverseBackground=true&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&reverseBackground=true&link=) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&reverseBackground=true&link=) ![scikitlearn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=46&reverseBackground=true&link=) <img src="https://cdn.simpleicons.org/matplotlib" width="40" height="40"/>
+ ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=)
 
 
 
