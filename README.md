@@ -18,7 +18,8 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 ---
 
 ## 🛠️ Tech Stack & Tools
-**Languages and Tools:** ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&bg=%23f3f4f6&link=)
+**Languages and Tools:** -
+![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=)
 
 
 
