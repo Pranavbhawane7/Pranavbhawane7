@@ -33,8 +33,7 @@ Transitioning into **Data Science & Analytics Engineering roles** with a focus o
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn:** https://www.linkedin.com/in/pranav-bhawane/ 
-- 📧 **Email:** bhawanepranav7@gmail.com 
+![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96) 
 
 ---
 
