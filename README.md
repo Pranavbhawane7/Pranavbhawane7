@@ -39,7 +39,8 @@ Transitioning into **Data Science & Analytics Engineering roles** with a focus o
 ## 📫 Let’s Connect
 [![LinkedIn](https://www.readmecodegen.com/api/social-icon?name=LinkedIn&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-bhawane%2F)](https://www.linkedin.com/in/pranav-bhawane/)
 [![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.kaggle.com%2Fpranavbhawane777)](https://www.kaggle.com/pranavbhawane777)
-[![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-bhawane%2F)](https://www.linkedin.com/in/pranav-bhawane/)
+[![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-bhawane%2F)](https://leetcode.com/u/Bprnv/)
+[![X](https://www.readmecodegen.com/api/social-icon?name=X&size=46&reverseBackground=true&link=https%3A%2F%2Fx.com%2Fbprnv7)](https://x.com/bprnv7)
 
 ---
 
