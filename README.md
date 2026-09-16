@@ -1,4 +1,4 @@
-<img width="1500" height="800" alt="Black and White Simple Professional Data Analysis Presentation" src="https://github.com/user-attachments/assets/f635c6e3-c19f-4dc6-9aa7-213509895391" />
+<img width="1300" height="800" alt="Black and White Simple Professional Data Analysis Presentation" src="https://github.com/user-attachments/assets/f635c6e3-c19f-4dc6-9aa7-213509895391" />
 
 
 
