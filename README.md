@@ -9,7 +9,8 @@
 I’m passionate about uncovering patterns and building data-driven solutions.  
 Currently working with **Python, SQL, Pandas, and ETL workflows**, while expanding into **Machine Learning and Data Engineering** to create end‑to‑end systems.
 
-<img width="480" height="360" alt="68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" src="https://github.com/user-attachments/assets/5496cf00-a988-4edd-a686-5513c6707a74" />
+                                                                                                                                                                                                                                                                        
+ <img width="480" height="360" alt="68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" src="https://github.com/user-attachments/assets/5496cf00-a988-4edd-a686-5513c6707a74" />
 
 
 ---
