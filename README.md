@@ -18,7 +18,7 @@ Currently working with **Python, SQL, Pandas, and ETL workflows**, while expandi
 ## 🚀 What I’m Working On
 - Advanced **data analysis projects**
 - Building **ETL pipelines** and **web scraping workflows**
-- Exploring **ML models** for predictive analytics
+- Exploring **ML models** for predictive analytics 
 
 ---
 
