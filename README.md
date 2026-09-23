@@ -30,7 +30,7 @@ Passionate about building pipelines, scraping data, and turning messy datasets i
 ---
 
 ## 📌 Career Goals
-Transitioning into **Data Science & Analytics Engineering roles** with a focus on **Fintech and Tech sectors**.
+Transitioning into **Data Science & Machine Learning** with a focus on making real impact.
                                                                                                                                                                                                            
 ---
 
