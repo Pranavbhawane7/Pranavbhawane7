@@ -18,13 +18,6 @@ Passionate about building pipelines, scraping data, and turning messy datasets i
 ---
 
 
-
----
-
-## 📫 Connect
-- [LinkedIn](https://www.linkedin.com/in/pranav-bhawane-a9135817a)  
-- 📧 **Email:** bhawanepranav7@gmail.com  
-
 ---
 
 ## 🛠️ Tech Stack
