@@ -2,7 +2,7 @@
 
 
 
-# 👋 Hi, I’m **Pranav Bhawane**
+# 👋 Hi, I’m **Pranav **
 
 ### 🧠 Aspiring Data Scientist | Turning Raw Data into Actionable Insights
 
