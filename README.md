@@ -2,35 +2,34 @@
 
 
 
-# 👋 Hi, I’m **Pranav**
+# 👋 Hi, I’m Pranav Bhawane
 
-### 🧠 Aspiring Data Scientist | Turning Raw Data into Actionable Insights
+### 🧠 Aspiring Data Scientist | Python • SQL • ML • ETL
+Passionate about building pipelines, scraping data, and turning messy datasets into insights.
 
-I’m passionate about uncovering patterns and building data-driven solutions.  
-Currently working with **Python, SQL, Pandas, and ETL workflows**, while expanding into **Machine Learning and Data Engineering** to create end‑to‑end systems.  
+---
 
-                                                                                                                                                                                                                                                                        
- <img width="480" height="360" alt="68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" src="https://github.com/user-attachments/assets/5496cf00-a988-4edd-a686-5513c6707a74" />
+## 🚀 Featured Projects
+- 📊 **PhonePe Pulse Visualization** – Interactive dashboards with Streamlit + Plotly
+- 🧾 **BizCard OCR** – Extracting business card data using Python OCR
+- 🏠 **Airbnb Data Analysis** – Exploratory analysis & visualization
+- 📈 **Sales Insights with SQL + PowerBI** – Business intelligence dashboards
+
+---
+
 
 
 ---
 
-## 🚀 What I’m Working On
-- Advanced **data analysis projects**
-- Building **ETL pipelines** and **web scraping workflows**
-- Exploring **ML models** for predictive analytics 
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/pranav-bhawane-a9135817a)  
+- 📧 **Email:** bhawanepranav7@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
+## 🛠️ Tech Stack
 
 ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&reverseBackground=true&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&reverseBackground=true&link=) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&reverseBackground=true&link=) ![numpy](https://www.readmecodegen.com/api/social-icon?name=numpy&size=46&reverseBackground=true&link=) ![scikitlearn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=46&reverseBackground=true&link=) ![pytorch](https://www.readmecodegen.com/api/social-icon?name=pytorch&size=46&reverseBackground=true&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=) ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=46&reverseBackground=true) <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="46" height="46"/> <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="46" height="46"/>
-
-
-
-
-
 
 
 ---
