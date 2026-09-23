@@ -9,13 +9,15 @@ Passionate about building pipelines, scraping data, and turning messy datasets i
 
 ---
 
-## 🚀 Featured Projects
-- 📊 **PhonePe Pulse Visualization** – Interactive dashboards with Streamlit + Plotly
-- 🧾 **BizCard OCR** – Extracting business card data using Python OCR
-- 🏠 **Airbnb Data Analysis** – Exploratory analysis & visualization
-- 📈 **Sales Insights with SQL + PowerBI** – Business intelligence dashboards
+## 📚 Learning Journey
+- Currently mastering ML model evaluation (ROC, precision/recall, threshold tuning)
+- Exploring ETL workflows & data engineering projects
+- Practicing web scraping for real-world datasets
+- Building portfolio projects to showcase end-to-end analytics
 
 ---
+
+<img width="480" height="360" alt="68747470733a2f2f696d617274696375732e6f72672f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30392f72742e676966" src="https://github.com/user-attachments/assets/a03ab8d8-3738-4e9b-a703-93fc11f5ee9b" />
 
 
 ---
