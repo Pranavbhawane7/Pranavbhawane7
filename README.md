@@ -2,6 +2,7 @@
 
 
 
+
 # 👋 Hi, I’m Pranav
 
 ### 🧠 Data Scientist | Python • SQL • ML • ETL • PowerBI
