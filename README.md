@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Pranav Bhawane
 
-### 🧠 Aspiring Data Scientist | Python • SQL • ML • ETL
+### 🧠 Data Scientist | Python • SQL • ML • ETL • PowerBI
 Passionate about building pipelines, scraping data, and turning messy datasets into insights.
 
 ---
