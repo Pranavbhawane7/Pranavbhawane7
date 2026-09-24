@@ -24,6 +24,7 @@ Driven to collect, clean, and analyze raw data, uncovering valuable insights fro
 
 ## 🛠️ Tech Stack
 
+
 ![python](https://www.readmecodegen.com/api/social-icon?name=python&size=46&reverseBackground=true&link=) ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=46&reverseBackground=true&link=) ![pandas](https://www.readmecodegen.com/api/social-icon?name=pandas&size=46&reverseBackground=true&link=) ![numpy](https://www.readmecodegen.com/api/social-icon?name=numpy&size=46&reverseBackground=true&link=) ![scikitlearn](https://www.readmecodegen.com/api/social-icon?name=scikitlearn&size=46&reverseBackground=true&link=) ![pytorch](https://www.readmecodegen.com/api/social-icon?name=pytorch&size=46&reverseBackground=true&link=) ![tensorflow](https://www.readmecodegen.com/api/social-icon?name=tensorflow&size=46&reverseBackground=true&link=) ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=46&reverseBackground=true) <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="46" height="46"/> <img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="46" height="46"/>
 
 
