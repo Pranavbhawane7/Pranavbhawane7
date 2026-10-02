@@ -12,7 +12,7 @@ Driven to collect, clean, and analyze raw data, uncovering valuable insights fro
 
 ## 📚 Learning Journey
 - Currently mastering ML model evaluation (ROC, precision/recall, threshold tuning)
-- Exploring ETL workflows & data engineering projects
+- Exploring ETL workflows & data Science projects
 - Practicing web scraping for real-world datasets
 - Building portfolio projects to showcase end-to-end analytics
 
