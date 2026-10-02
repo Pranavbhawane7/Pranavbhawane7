@@ -3,7 +3,7 @@
 
 
 
-# 👋 Hi, I’m Pranav
+# 👋 Hi, I’m Pranav Bhawane
 
 ### 🧠 Data Science | Machine Learning | Python • PostgreSQL • ML • ETL • PowerBI 
 Driven to collect, clean, and analyze raw data, uncovering valuable insights from complex datasets.
