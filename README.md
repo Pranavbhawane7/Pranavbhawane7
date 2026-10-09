@@ -1,4 +1,5 @@
-<img width="1500" height="500" alt="Black and White Simple Professional Data Analysis Presentation" src="https://github.com/user-attachments/assets/f635c6e3-c19f-4dc6-9aa7-213509895391" />
+<img width="733" height="262" alt="Banner Data science concept with English keywords and icon of analysis, structure, algorithm, process, programming, solving and knowledge" src="https://github.com/user-attachments/assets/115ae089-5c8b-4bf4-bae7-c7814d15de9b" />
+
 
 
 
