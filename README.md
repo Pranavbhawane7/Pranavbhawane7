@@ -1,4 +1,5 @@
-<img width="733" height="262" alt="Banner Data science concept with English keywords and icon of analysis, structure, algorithm, process, programming, solving and knowledge" src="https://github.com/user-attachments/assets/115ae089-5c8b-4bf4-bae7-c7814d15de9b" />
+<img width="2000" height="1414" alt="Black and Purple Abstract Tech General Report" src="https://github.com/user-attachments/assets/eb9c6bfe-403e-4827-bdd8-08000706dc96" />
+
 
 
 
