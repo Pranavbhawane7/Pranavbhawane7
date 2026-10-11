@@ -1,4 +1,4 @@
-<img width="2000" height="900" alt="Black and Purple Abstract Tech General Report" src="https://github.com/user-attachments/assets/eb9c6bfe-403e-4827-bdd8-08000706dc96" />
+<img width="1500" height="900" alt="Black and Purple Abstract Tech General Report" src="https://github.com/user-attachments/assets/eb9c6bfe-403e-4827-bdd8-08000706dc96" />
 
 
 
