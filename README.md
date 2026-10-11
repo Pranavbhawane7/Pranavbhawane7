@@ -1,4 +1,4 @@
-<img width="1500" height="900" alt="Black and Purple Abstract Tech General Report" src="https://github.com/user-attachments/assets/eb9c6bfe-403e-4827-bdd8-08000706dc96" />
+<img width="851" height="315" alt="Blue and White Abstract Tech Facebook Cover" src="https://github.com/user-attachments/assets/4087b5ee-3c54-403d-b714-f569ee45de34" />
 
 
 
