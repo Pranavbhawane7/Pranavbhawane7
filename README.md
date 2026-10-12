@@ -5,7 +5,7 @@
 
 
 
-# 👋 Hi, I’m Pranav Bhawane
+# 👋 Hi, I’m Pranav 
 
 ### 🧠 Data Science | Machine Learning | Python • PostgreSQL • ETL • ML workflow 
 Driven to collect, clean, and analyze raw data, uncovering valuable insights from complex datasets.
