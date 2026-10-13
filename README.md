@@ -16,7 +16,9 @@ Driven to collect, clean, and analyze raw data, uncovering valuable insights fro
 ## 📚 Learning Journey
   
 Currently mastering end‑to‑end Machine Learning workflows 🤖
+
 Exploring ETL pipelines & building data science projects across domains
+
 Focused on creating portfolio projects that showcase complete analytics solutions 📊
 
 ---
