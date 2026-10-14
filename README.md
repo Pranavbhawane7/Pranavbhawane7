@@ -6,20 +6,13 @@
 
 
 
-# 👋 Hi, I’m Pranav 
+## 🚀 Aspiring Data Scientist | Analytics Professional
 
-### 🧠 Data Science | Machine Learning | Python | PostgreSQL | ETL | ML workflow | DeepLearning
-Driven to collect, clean, and analyze raw data, uncovering valuable insights from complex datasets.
+Building end-to-end Machine Learning projects, ETL pipelines, and data-driven solutions using Python and SQL.
 
----
+Focused on predictive modeling, analytics engineering, and solving real-world business problems.
 
-## 📚 Learning Journey
-  
-Currently mastering end‑to‑end Machine Learning workflows 🤖
-
-Exploring ETL pipelines & building data science projects across domains
-
-Focused on creating portfolio projects that showcase complete analytics solutions 📊
+Open to Data Science, Analytics, and Analytics Engineering opportunities.
 
 ---
 
