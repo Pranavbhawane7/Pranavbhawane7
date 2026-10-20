@@ -44,4 +44,4 @@ Create an impact with my Data Science skills that I have acquired with consisten
 
 ---
 
-💡 **Fun Fact:** I love experimenting with side projects — from scraping data to building ML models — and I’m always learning something new.
+💡 **Fun Fact:** I love experimenting with side projects — worked so much on messy data, that I could solve Data problems in sleep.
