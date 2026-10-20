@@ -32,7 +32,7 @@ Open to Data Science, Analytics, and Analytics Engineering opportunities.
 ---
 
 ## 📌 Career Goals
-Transitioning into **Data Science & Machine Learning** with a focus on making real impact.
+Create an impact with my Data Science skills that I have acquired with consistent efforts and curiosity.
                                                                                                                                                                                                            
 ---
 
