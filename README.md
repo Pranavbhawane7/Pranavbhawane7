@@ -4,7 +4,7 @@
 
 
 
-
+## Hi my name is Pranav and I love fnding insights from data that help real business 
 
 ## 🚀 Aspiring Data Scientist | Analytics Professional
 
