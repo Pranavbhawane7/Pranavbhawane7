@@ -32,7 +32,8 @@ Open to Data Science, Analytics, and Analytics Engineering opportunities based i
 ---
 
 ## 📌 Career Goals
-Create an impact with my Data Science skills that I have acquired with consistent efforts and curiosity.
+Create an impact with my Data Science skills that I have acquired with consistent efforts and curiosity. 
+Utilize my skills to make real impact and solve real business problems.
                                                                                                                                                                                                            
 ---
 
