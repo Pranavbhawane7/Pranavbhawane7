@@ -32,8 +32,10 @@ Open to Data Science, Analytics, and Analytics Engineering opportunities based i
 ---
 
 ## 📌 Career Goals
-Create an impact with my Data Science skills that I have acquired with consistent efforts and curiosity. 
-Utilize my skills to make real impact and solve real business problems.
+
+Aspiring Data Analyst and Data Scientist passionate about transforming raw data into actionable business insights. I am building hands-on experience in Python, SQL, data analysis, data visualization, and machine learning through real-world projects and practical simulations.
+
+My goal is to solve business problems using data-driven approaches, develop reliable analytical solutions, and continuously strengthen my skills in statistical analysis, predictive modeling, and business intelligence.
                                                                                                                                                                                                            
 ---
 
