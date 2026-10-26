@@ -45,4 +45,4 @@ My goal is to solve business problems using data-driven approaches, develop reli
 
 ---
 
-💡 **Fun Fact:** I love experimenting with side projects — worked so much on messy data, that I could solve Data problems in sleep.
+💡 **Fun Fact:** I love experimenting with side projects
