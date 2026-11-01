@@ -47,4 +47,4 @@ My goal is to solve business problems using data-driven approaches, develop reli
 
 ---
 
-💡 **Fun Fact:** I love experimenting with side projects
+💡 **Fun Fact:** I love experimenting with side projects and build things that actually solve business problem
