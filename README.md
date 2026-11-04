@@ -14,6 +14,9 @@ Focused on predictive modeling, analytics engineering, and solving real-world bu
 Open to Data Science, Analytics, and Analytics Engineering opportunities based in South East Asia, Europe and USA.
 
 
+
+
+
 ---
 
 
