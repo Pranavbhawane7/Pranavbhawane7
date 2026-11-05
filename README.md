@@ -1,5 +1,5 @@
 
-<img width="1000" height="300" alt="Blue and White Abstract Tech Facebook Cover" src="https://github.com/user-attachments/assets/4087b5ee-3c54-403d-b714-f569ee45de34" />
+<img width="1000" height="400" alt="Blue and White Abstract Tech Facebook Cover" src="https://github.com/user-attachments/assets/4087b5ee-3c54-403d-b714-f569ee45de34" />
 
 
 
