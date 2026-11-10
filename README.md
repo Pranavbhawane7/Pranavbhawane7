@@ -3,7 +3,7 @@
 
 
 
-## Hi my name is Pranav
+## Hi my name is Pranav 📈🚀
 
 ## 🚀 Aspiring Data Scientist | Analytics Professional
 
