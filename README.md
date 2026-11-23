@@ -47,6 +47,7 @@ My goal is to solve business problems using data-driven approaches, develop reli
 [![kaggle](https://www.readmecodegen.com/api/social-icon?name=kaggle&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.kaggle.com%2Fpranavbhawane777)](https://www.kaggle.com/pranavbhawane777)
 [![leetcode](https://www.readmecodegen.com/api/social-icon?name=leetcode&size=46&reverseBackground=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav-bhawane%2F)](https://leetcode.com/u/Bprnv/)
 [![X](https://www.readmecodegen.com/api/social-icon?name=X&size=46&reverseBackground=true&link=https%3A%2F%2Fx.com%2Fbprnv7)](https://x.com/bprnv7)
+[![codewars](https://www.readmecodegen.com/api/social-icon?name=codewars&size=46&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FPranavbhawane7)](https://www.codewars.com/users/Pranavbhawane7)
 
 ---
 
