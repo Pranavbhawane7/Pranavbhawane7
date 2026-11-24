@@ -3,7 +3,7 @@
 
 
 
-## Hi my name is Pranav 📈🚀
+## Hi my name is Pranav 🚀
 
 ## 🚀 Aspiring Data Scientist | Analytics Professional
 
@@ -12,7 +12,6 @@ Building end-to-end Machine Learning projects, ETL pipelines, and data-driven so
 Focused on predictive modeling, analytics engineering, and solving real-world business problems.
 
 Open to Data Science, Analytics, and Analytics Engineering opportunities based in South East Asia, Europe and USA.
-
 
 
 
