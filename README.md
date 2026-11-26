@@ -2,7 +2,6 @@
 <img width="1050" height="400" alt="Blue and White Abstract Tech Facebook Cover" src="https://github.com/user-attachments/assets/4087b5ee-3c54-403d-b714-f569ee45de34" />
 
 
-
 ## Hi my name is Pranav 🚀
 
 ## 🚀 Aspiring Data Scientist | Analytics Professional
